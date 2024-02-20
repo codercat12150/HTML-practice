@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+<head>
+    <title>Text formatting example</title>
+</head>
+<b>this is bold text</b><br>
+<big>this is big text</big><br>
+<em>thisis emphasized text</em><br>
+<i>this is italic text</i><br>
+<small>this is small text</small><br>
+<del>this is deleted text</del><br>
+<u>this is underlined text</u><br>
+This is <sub>subscript</sub><br>
+This is <sup>superscript</sup><br>
+<bdo>thisis left to right text</bdo> <br> 
+</body>
+</html>
